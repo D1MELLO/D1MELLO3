@@ -3,7 +3,6 @@
 </h1>
 
 
-
 <h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
 
  who loves turning challenges into opportunities. With a knack for innovation and a drive to make a difference, I’m all about creating impactful solutions that spark growth and excitement. Always curious, always evolving, I thrive in dynamic environments where I can learn, adapt, and make things happen. Let’s build something amazing together! 🚀✨
@@ -97,6 +96,15 @@
 
 [D1MELLO](https://github.com/D1MELLO)
 27/11/2024
+
+```
+██████╗  ██╗███╗   ███╗███████╗██╗     ██╗      ██████╗ 
+██╔══██╗███║████╗ ████║██╔════╝██║     ██║     ██╔═══██╗
+██║  ██║╚██║██╔████╔██║█████╗  ██║     ██║     ██║   ██║
+██║  ██║ ██║██║╚██╔╝██║██╔══╝  ██║     ██║     ██║   ██║
+██████╔╝ ██║██║ ╚═╝ ██║███████╗███████╗███████╗╚██████╔╝
+╚═════╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝                                       
+```
 
 
 
